@@ -18,6 +18,8 @@ Open `Main.xml` and run the project on Uipath
 ```bash
  `Main.xml`
 ```
+
+Note : Make Sure you have MS Excel 2010 or above. 
     
 ## Aim
 
