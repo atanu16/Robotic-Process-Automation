@@ -15,13 +15,13 @@ With our automated solution, powered by UIPath RPA, this cumbersome process is s
 
 ## Instruction
 
-Open `Main.xml` and run the project on Uipath
+Open `Main.xaml` and run the project on Uipath
 
 ```bash
- `Main.xml`
+ `Main.xaml`
 ```
 
-Note : your dowladed document will be saved in `File` folder 
+Note : your dowladed document will be saved in `File` folder. 
     
 ## Aim
 

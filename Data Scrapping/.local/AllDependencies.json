@@ -22269,9 +22269,9 @@
     "restore": {
       "projectUniqueName": "doc scraping",
       "projectName": "doc scraping",
-      "projectPath": "C:\\Users\\atanu\\Ayush-test\\Desktop\\UiPath\\7\\.local",
+      "projectPath": "C:\\Users\\atanu\\Ayush-test\\Desktop\\UiPath\\Upload\\Data Scrapping\\.local",
       "packagesPath": "C:\\Users\\atanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\atanu\\Ayush-test\\Desktop\\UiPath\\7\\.local"
+      "outputPath": "C:\\Users\\atanu\\Ayush-test\\Desktop\\UiPath\\Upload\\Data Scrapping\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {

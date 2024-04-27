@@ -13,10 +13,10 @@ In this UIPath RPA project, we aim to automate the process of fetching weather d
 
 ## Instruction
 
-Open `Main.xml` and run the project on Uipath
+Open `Main.xaml` and run the project on Uipath
 
 ```bash
- `Main.xml`
+ `Main.xaml`
 ```
 
 Note : Make Sure you have MS Excel 2010 or above. 
